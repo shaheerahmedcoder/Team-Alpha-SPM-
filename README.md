@@ -24,8 +24,10 @@
 📌 [**Scope Statement**] — Boundaries, deliverables, and constraints of the project  
 💻 [**Software Requirements Specification (SRS)**] — Functional and non-functional requirements  
 🛠️ [**Integrated Change Control Board**] — Governs project change requests and approvals  
-⚖️ [**Effort Estimation**] — Estimated resources, time, and cost for tasks  
+⚖️ [**Effort Estimation**] — Estimated resources, time, and cost for tasks    
 🔄 [**SDLC Preview**] — Overview of the Software Development Life Cycle followed  
+📊 [**COCOMO Effort Estimation**] — Cost drivers, multipliers, and calculated effort/duration/staffing
+
 
 [**other docs coming soon!**]
 
