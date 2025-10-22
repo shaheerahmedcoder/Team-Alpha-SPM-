@@ -4,14 +4,14 @@
 
 ## 🤝 Team Alpha
 
-| Name               | Role               |
-|--------------------|--------------------|
-| **Shaheer Ahmed**  | Project Manager    |
-| **Hasan Mustafa**  | Marketing Expert   |
-| **Hunain Amjad**   | Business Analyst   |
-| **Mauzam Abbas**   | Resources Manager  |
-| **Sarim Hasan**    | Documnets Support  |
-| **Muhammad Hamza** | Surveys Supporter  |
+| Name               | Role                             |
+|--------------------|----------------------------------|
+| **Shaheer Ahmed**  | Project Manager and Developer    |
+| **Hasan Mustafa**  | Marketing Expert                 |
+| **Hunain Amjad**   | Business Analyst                 |
+| **Mauzam Abbas**   | Surveys Supporter                |
+| **Sarim Hasan**    | Social Media Handling            |
+| **Muhammad Hamza** | Content writing                  |
 
 
 ## 📚 Project Documentation
